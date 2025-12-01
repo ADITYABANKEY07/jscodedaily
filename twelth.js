@@ -46,16 +46,16 @@ let info = [
 ]
 
 let newData = info.map((e)=>{
-    return e.name
+    return e
 })
 
 console.log(newData)
 
-let filterData = info.filter((e)=>{
-    return e.city[1]
-})
+// let filterData = info.filter((e)=>{
+//     return e.city[1]
+// })
 
-console.log(filterData)
+// console.log(filterData)
 
 //find
 // find vs filter

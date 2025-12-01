@@ -11,10 +11,10 @@ function Sixth() {
 
   //  POP, Push, Shift, Unshift
 
-  //   Fruits.pop() //POP :- Remove element from last
   //   Fruits.push("DragonFruits") //Push :- Add element from last
-  //   Fruits.shift() //Shift :- Remove element from start
+  //   Fruits.pop() //POP :- Remove element from last
   //   Fruits.unshift("Banana") //UnShift :- Add element from start
+  //   Fruits.shift() //Shift :- Remove element from start
   //   alert(Fruits);
 
   // Slice
